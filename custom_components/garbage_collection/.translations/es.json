@@ -136,7 +136,10 @@
                     "week_order_number_5": "5ta semana del mes",
                     "include_dates": "Incluir fechas (opcional)",
                     "exclude_dates": "Excluir fechas (opcional)",
-                    "move_country_holidays": "Mover vacaciones al día siguiente (opcional)"
+                    "move_country_holidays": "Mover vacaciones al día siguiente (opcional)",
+                    "prov": "prov",
+                    "state": "estado",
+                    "observed": "observado"
                 }
             }
         },
